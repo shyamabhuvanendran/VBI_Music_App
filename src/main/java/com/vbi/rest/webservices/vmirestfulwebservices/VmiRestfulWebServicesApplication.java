@@ -11,7 +11,7 @@ import com.vbi.rest.webservices.vmirestfulwebservices.Songs.SongResource;
 
 @SpringBootApplication
 (scanBasePackages= {"com.vbi.rest.webservices.vmirestfulwebservices"})
-public class VmiRestfulWebServicesApplication {
+public class VmiRestfulWebServicesApplication extends SpringBootServletInitializer {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(VmiRestfulWebServicesApplication.class, args);
