@@ -7,6 +7,7 @@ VBI_Music_App/Schema_diagram.jpeg - Has the DB schema diagram.
 
 # Login Details
 Username - Sam
+
 Password - admin
 
 # Execution Steps
